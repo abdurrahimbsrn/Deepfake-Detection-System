@@ -1,5 +1,6 @@
 # Deepfake-Detection-System
 
+![DeepFake Detection UI Demo](deepfake.gif)
 
 # Server Setup
 
