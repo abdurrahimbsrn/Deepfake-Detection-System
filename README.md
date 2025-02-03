@@ -38,7 +38,7 @@ This section explains the CMake configuration file (`CMakeLists.txt`) for the se
 
 ---
 
-# Docker Setup
+# Docker Setup for NPR Model 
 
 This section provides instructions for setting up the Docker environment for the DeepFake detection project. The Dockerfile is configured to use CUDA for GPU acceleration and includes all necessary dependencies for running the detection model.
 
@@ -79,7 +79,7 @@ This section provides instructions for setting up the Docker environment for the
 
 
 ---
-# DeepFake Detection Project - Docker Setup for Face Detection
+# Docker Setup for Face Detection
 
 This section provides instructions for setting up the Docker environment for the face detection component of the DeepFake detection project. The Dockerfile is configured to use Python 3.9 and includes all necessary dependencies for running the face detection script.
 
